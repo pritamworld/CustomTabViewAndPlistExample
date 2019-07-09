@@ -17,6 +17,7 @@
 		0756C26622D402B600BC0718 /* StudentInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0756C26522D402B600BC0718 /* StudentInfo.plist */; };
 		0756C26822D4129700BC0718 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0756C26722D4129700BC0718 /* Student.swift */; };
 		0756C26A22D41ECC00BC0718 /* StudentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0756C26922D41ECC00BC0718 /* StudentTableViewCell.swift */; };
+		0756C26C22D4220C00BC0718 /* launches.json in Resources */ = {isa = PBXBuildFile; fileRef = 0756C26B22D4220C00BC0718 /* launches.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		0756C26522D402B600BC0718 /* StudentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = StudentInfo.plist; sourceTree = "<group>"; };
 		0756C26722D4129700BC0718 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 		0756C26922D41ECC00BC0718 /* StudentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewCell.swift; sourceTree = "<group>"; };
+		0756C26B22D4220C00BC0718 /* launches.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = launches.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				0756C26522D402B600BC0718 /* StudentInfo.plist */,
 				0756C26722D4129700BC0718 /* Student.swift */,
 				0756C26922D41ECC00BC0718 /* StudentTableViewCell.swift */,
+				0756C26B22D4220C00BC0718 /* launches.json */,
 			);
 			path = Day7TabViewAndPlistExample;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0756C26C22D4220C00BC0718 /* launches.json in Resources */,
 				0756C25C22D3FCED00BC0718 /* LaunchScreen.storyboard in Resources */,
 				0756C25922D3FCED00BC0718 /* Assets.xcassets in Resources */,
 				0756C26622D402B600BC0718 /* StudentInfo.plist in Resources */,
